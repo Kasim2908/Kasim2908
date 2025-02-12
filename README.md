@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kasim</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" aligen="right" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" aligen="left" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasim2908&label=Profile%20views&color=0e75b6&style=flat" alt="kasim2908" /> </p>
 
