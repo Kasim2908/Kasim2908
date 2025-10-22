@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [Hashnode](Hashnode)
 
-- 💬 Ask me about **DSA,C/C++,HTML,CSS,Javascript,Java**
+- 💬 Ask me about **DSA,DevOps,Cloud Computing**
 
 - 📫 How to reach me **ka000sim@gmail.com**
 
