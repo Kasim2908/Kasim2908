@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kasim</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">A passionate software engineer from India</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450px" align="right" alt="">
 
@@ -55,13 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasim2908" alt="kasim2908" />
 </p>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kasim2908/kasim2908/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
-</p>
 
 
 
