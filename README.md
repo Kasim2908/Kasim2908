@@ -51,4 +51,17 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasim2908&" alt="kasim2908" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasim2908" alt="kasim2908" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kasim2908/kasim2908/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
+</p>
+
+
+
