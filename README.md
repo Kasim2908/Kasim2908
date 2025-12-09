@@ -53,8 +53,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasim2908" alt="kasim2908" />
+  <img src="https://streak-stats.demolab.com/?user=kasim2908" alt="kasim2908" />
 </p>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
