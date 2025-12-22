@@ -51,6 +51,13 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasim2908&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim2908&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kasim2908" alt="kasim2908" />
