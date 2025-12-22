@@ -59,9 +59,48 @@
 </p>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kasim2908" alt="kasim2908" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ka000sim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Mohammad_Kasim">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <!-- Hashnode -->
+  <a href="https://hashnode.com/@kasim2908">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/echo_kasim">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/add/apt_kasim">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Kasim2908">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
