@@ -64,41 +64,48 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <!-- LinkedIn -->
+  <!-- Professional / Coding Platforms -->
   <a href="https://www.linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:ka000sim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <!-- LeetCode -->
   <a href="https://leetcode.com/Mohammad_Kasim">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <!-- Hashnode -->
   <a href="https://hashnode.com/@kasim2908">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://dev.to/kasim2908">
+    <img src="https://img.shields.io/badge/Dev_Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
 
-  <!-- Instagram -->
+<p align="center">
+  <!-- Social Platforms -->
   <a href="https://www.instagram.com/echo_kasim">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <!-- Snapchat -->
   <a href="https://www.snapchat.com/add/apt_kasim">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
-
-  <!-- GitHub -->
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <a href="https://github.com/Kasim2908">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://x.com/your-x-username">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://greeksforgreeks.com/Mohammad Kasim">
+    <img src="https://img.shields.io/badge/GreeksForGreeks-6F42C1?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
+
+
+
 
 
 
