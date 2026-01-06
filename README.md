@@ -49,13 +49,20 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
 
-## 📊 GitHub Stats
+
+## 🔥 DevOps Live Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasim2908&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasim2908&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes;Automate+Everything;Build+Once+Deploy+Anywhere" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=100&section=footer"/>
 </p>
 
 
