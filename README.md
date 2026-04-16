@@ -14,13 +14,19 @@
 - 📫 How to reach me **ka000sim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kasim-272a29316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kasim-272a29316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_____kasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_____kasim" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kasim2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kasim2908" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mohammad_kasim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohammad_kasim/" height="30" width="40" /></a>
+<p align="centre">
+<a href="https://www.linkedin.com/in/mohammad-kasim-272a29316" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_____kasim" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://hashnode.com/@kasim2908" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/mohammad_kasim/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
