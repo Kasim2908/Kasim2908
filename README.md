@@ -76,6 +76,14 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kasim2908&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -90,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasim2908&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 Contribution Graph
 
