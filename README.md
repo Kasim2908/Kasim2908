@@ -136,7 +136,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kasim2908&theme=github_dark)
+[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kasim2908&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
