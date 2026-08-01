@@ -1,5 +1,5 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h1 align="center">Hi, I'm Mohammad Kasim</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+%7C+Bash+%7C+Python;Always+Learning+New+Technologies" />
 </p>
@@ -21,6 +21,8 @@
 - 📝 I regularly write articles on **[Hashnode](https://hashnode.com/@YOUR_USERNAME)**
 
 - 📫 Reach me at **ka000sim@gmail.com**
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h3 align="left">Connect with me:</h3>
 
