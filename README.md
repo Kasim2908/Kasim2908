@@ -73,16 +73,42 @@
 </p>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kasim2908&theme=radical&margin-w=15&margin-h=15" />
-</p>
+
+  <a href="YOUR_AWS_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <a href="YOUR_CISCO_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="YOUR_IBM_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/IBM-Cloud_Essentials-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
+
+  <a href="YOUR_COGNITIVE_CLASS_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/Cognitive_Class-Introduction_to_Cloud-4B6CB7?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
+
+  <a href="YOUR_RESPONSIVE_WEB_DESIGN_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/Responsive_Web_Design-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+
+  <a href="YOUR_JS_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/JavaScript_Algorithms-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+
+  <a href="YOUR_FRONTEND_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/Front_End_Development-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
