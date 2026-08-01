@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kasim</h1>
+<h1 align="center">Hi, I'm Mohammad Kasim</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+%7C+Bash+%7C+Python;Always+Learning+New+Technologies" />
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center"> DevOps Engineer | Cloud Enthusiast | Open Source Learner</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450px" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasim2908&label=Profile%20views&color=0e75b6&style=flat" alt="kasim2908" /> </p>
 
-- 🌱 I’m currently learning **DSA , Development and new technologies as Software Engineer**
+- 🌱 **Currently focused on:**
+  - 🚀 DevOps Engineering
+  - ☁️ AWS Cloud
+  - 🐳 Docker & ☸️ Kubernetes
+  - 🏗️ Terraform
+  - ⚙️ CI/CD Automation
+  - 🐧 Linux, 💻 Bash & 🐍 Python
+  - ❤️ Open Source
 
-- 📝 I regularly write articles on [Hashnode](Hashnode)
+- 📝 I regularly write articles on **[Hashnode](https://hashnode.com/@YOUR_USERNAME)**
 
-- 💬 Ask me about **DSA,DevOps,Cloud Computing**
-
-- 📫 How to reach me **ka000sim@gmail.com**
+- 📫 Reach me at **ka000sim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
