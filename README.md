@@ -33,6 +33,10 @@
 <a href="https://www.instagram.com/echo_kasim" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://x.com/kasim2908">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="X"/>
+  </a>
+
 <a href="https://hashnode.com/@kasim2908" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
