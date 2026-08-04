@@ -124,19 +124,25 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kasim2908&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kasim2908&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kasim2908&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Kasim2908&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasim2908&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasim2908&layout=compact&theme=github_dark&cache_seconds=1800" />
+</p>
+
+<h2 align="center">⭐ GitHub Summary</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kasim2908&theme=github_dark" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-## 📈 Contribution Graph
+📈 Contribution Graph
 
 [![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kasim2908&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
 
