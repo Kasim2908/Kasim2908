@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Linux+%7C+Bash+%7C+Python;Always+Learning+New+Technologies" />
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasim2908&label=Profile%20views&color=0e75b6&style=flat" alt="kasim2908" /> </p>
 <h3 align="center"> DevOps Engineer | Cloud Enthusiast | Open Source Learner</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450px" align="right" alt="">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasim2908&label=Profile%20views&color=0e75b6&style=flat" alt="kasim2908" /> </p>
 
 - 🌱 **Currently focused on:**
   - 🚀 DevOps Engineering
@@ -71,6 +70,14 @@
 | Others |  <img src="https://img.shields.io/badge/Networking-F80000?style=for-the-badge&logo=networking&logoColor=black" /> <img src="https://img.shields.io/badge/OOPS-880000?style=for-the-badge&logo=oops&logoColor=white" /> <img src="https://img.shields.io/badge/YAML-005C84?style=for-the-badge&logo=yaml&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless_Framework-ffca28?style=for-the-badge&logo=serverless_framework&logoColor=black"/>  |
 
   
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 💭 Dev Thoughts
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=%22Fix+one+bug%2C+create+three.+Balance+maintained.%22;%22Learning+never+ends+%E2%80%94+you+just+upgrade+the+error+messages.%22;%22The+compiler+doesn%27t+hate+me.+It+tests+my+emotional+strength.%22;%22Every+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%22;%22Successful+builds+hide+stories+of+2+AM+debugging+sessions.%22;%22Documentation+is+a+love+letter+to+your+future+self.%22;%22git+commit+-m+'final_FINAL_v3_forreal_thistime'%22;%22It+works+on+my+machine.+Ship+the+machine.%22" alt="Thoughts" />
+</p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🔥 DevOps Live Dashboard
@@ -137,12 +144,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasim2908&layout=compact&theme=github_dark&cache_seconds=1800" />
-</p>
-
-<h2 align="center">⭐ GitHub Summary</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kasim2908&theme=github_dark" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
