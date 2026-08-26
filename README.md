@@ -149,7 +149,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 📈 Contribution Graph
 
-[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kasim2908&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
+[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kasim2908&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Kasim2908)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
