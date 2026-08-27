@@ -200,7 +200,7 @@
 ## 🐍 Bite Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kASIM2908/kASIM2908/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Kasim2908/Kasim2908/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
