@@ -151,7 +151,7 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
